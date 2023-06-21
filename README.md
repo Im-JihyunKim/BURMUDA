@@ -1,9 +1,10 @@
 # BURMUDA
 ![BURMUDA Overall Framework](./Img/BURMUDA.PNG)  
 
-This is an implementation of BURMUDA(Bayesian Uncertainty-based Multi-source Unsupervised Domain Adaptation for Sentimental Analysis ) in Pytorch.
+This is an implementation of BURMUDA(Bayesian Uncertainty-based Multi-source Unsupervised Domain Adaptation for Sentimental Analysis) in Pytorch.
 
-## Requirements
+## Requirements  
+This part explains how to reproduce the BURMUDA sentiment analysis experiments in the paper.
 * `torch == 1.12.1`
 * `torchmetrics==0.11.4`
 * `Python == 3.10`
@@ -18,7 +19,6 @@ This is an implementation of BURMUDA(Bayesian Uncertainty-based Multi-source Uns
 * `scipy==1.10.1`
 * `seaborn==0.12.2`
 * `colorama==0.4.6`  
-This part explains how to reproduce the BURMUDA sentiment analysis experiments in the paper.
 
 ## Training + Evaluation
 Run
